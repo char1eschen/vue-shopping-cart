@@ -1,6 +1,6 @@
-# sw-shopping-cart
+# sports warehouse shopping cart
 
-> sw shopping cart developed with vue.js
+> SW shopping cart developed with vue.js
 
 ## Build Setup
 
